@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)]
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Hi 👋, I'm Rammith C</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/hyw0xPOxDIFK4_f7yHOevjfEC8TxEz8QlWyWqnLpm4U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzExLzM3LzcxLzAz/LzM2MF9GXzExMzc3/MTAzNzFfd3NpQkJP/RXA5eUpXejFpNmNx/bkxCNmVLRDBrTGNJ/NlEuanBn">
